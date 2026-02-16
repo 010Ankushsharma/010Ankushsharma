@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;Java+%26+DSA+Practitioner;Spring+Boot+Developer;Placement+Focused+Developer;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;Java+%26+Developer;Spring+Boot+Developer;Flutter developer;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
