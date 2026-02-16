@@ -1,70 +1,97 @@
-<h1 align="center">Ankush Sharma</h1>
+<h1 align="center">Hi 👋, I'm Ankush Sharma</h1>
+<h3 align="center">Machine Learning Enthusiast | Java Developer | Placement Focused 🚀</h3>
+
+---
 
 <p align="center">
-  <strong>Java & Spring Boot Backend Developer</strong> · Flutter · AI/ML & Data Science
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&color=9CA3AF&lines=Building+Scalable+Backend+Systems;Clean+Architecture+%26+REST+APIs;Flutter+Mobile+Apps;Learning+AI%2FML+%26+Data+Science" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=4B5563&style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Explorer;Java+%26+DSA+Practitioner;Open+Source+Learner;Always+Improving+Skills&font=Fira%20Code&center=true&width=440&height=45&color=F75C7E&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-Backend-focused developer specializing in **Java & Spring Boot**, with hands-on experience in designing **scalable REST APIs**, clean architecture, and production-ready systems.
-
-I also build **Flutter mobile apps** and am actively exploring **AI/ML & Data Science** to create intelligent, data-driven applications.
-
-- Strong fundamentals in **OOP, DSA, SQL**
-- Passion for **clean code & system design**
-- Long-term mindset: consistency > hype
+- 🎓 Computer Science Student
+- 🤖 Focused on **Machine Learning & AI**
+- 💻 Strong in **Core Java, DSA & SQL**
+- 📊 Love working on **EDA & Real-world Datasets**
+- 🚀 Preparing for MNC Placements
+- 🏋️ Discipline in coding & fitness
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Major Projects
 
-### Languages
-`Java` · `Dart` · `Python` · `SQL`
+### 🌱 Early Crop Disease Detection
+- Built ML model to detect crop diseases
+- Applied:
+  - Data Preprocessing
+  - Feature Engineering
+  - Model Training & Evaluation
+- Improved prediction accuracy using optimized parameters
 
-### Backend
-`Spring Boot` · `Spring Security` · `JWT` · `REST APIs`
+### 🚀 Our Little Space
+- AI-based project focused on intelligent interaction
+- Applied ML concepts & backend logic
 
-### Mobile
-`Flutter`
+---
 
-### AI / Data
-`Machine Learning` · `Data Science` · `NumPy` · `Pandas`
+## 🛠️ Tech Stack
 
-### Database & Tools
-`MySQL` · `Git` · `Postman` · `Linux`
+### 👨‍💻 Languages
+- Java
+- Python
+- SQL
+- C++
+
+### 📚 ML & Data
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+
+### 💻 Development
+- Spring Boot
+- MySQL
+- Git & GitHub
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
+
+---
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🔥 Advanced Machine Learning
+- 📊 Model Optimization
+- 🧠 MNC Interview Preparation
+- 💻 System Design Basics
+- 🚀 Open Source Contribution
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- ✉️ Email: yourgmail@gmail.com  
+- LinkedIn: (Add your link)
+- GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
-<p align="center">
-  <em>Building quietly. Improving daily.</em>
-</p>
+⭐ “Consistency beats motivation.”
