@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+AIML+Student;AI+Integrated+Web+App+Builder;Flutter+%7C+Java+%7C+Backend+Dev;Building+Real+World+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/? lines=B.Tech+AIML+Student;AI+Integrated+Web+App+Builder;Flutter+%7C+Java+%7C+Backend+Dev;Building+Real+World+Projects&center=true&width=500&height=45">
 </p>
 
 ---
