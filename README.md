@@ -1,189 +1,283 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ankush%20Sharma&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<div align="center">
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=010Ankushsharma">
-    <img src="https://komarev.com/ghpvc/?username=010Ankushsharma&label=Profile%20views&color=00FFFF&style=flat-square" alt="010Ankushsharma's profile views" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+AIML+Student;AI+Integrated+Web+App+Builder;Flutter+%7C+Java+%7C+Backend+Dev;Building+Real+World+Projects&center=true&width=600&height=50&color=808080&size=22">
-</p>
+<!-- HEADER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d0d0d,50:7928CA,100:FF0080&text=ANKUSH%20SHARMA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20%7C%20Flutter&descSize=20&descColor=a0a0b0&descAlignY=60&stroke=7928CA&strokeWidth=2" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
+</div>
 
----
+<!-- TYPING ANIMATION -->
+<div align="center">
 
-## 📌 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=false&width=600&height=60&lines=🤖+Building+AI-Integrated+Web+Apps;🚀+B.Tech+AI+%26+ML+%40+Full+Throttle;⚡+Flutter+%7C+Java+%7C+Python+%7C+React;🔥+Turning+Ideas+into+Production+Code;💡+Real+World+Projects+%3E+Side+Projects)](https://git.io/typing-svg)
 
-- 🎓 B.Tech in AI & ML
-- 📱 Can develop Flutter applications
-- ☕ Java Backend Developer
-- 🤖 AI/ML Enthusiast
-- 🌐 Web Developer (somewhat)
-- 🚀 Aspiring to build **AI-integrated web applications**
-- 💡 Passionate about building **real-world, production-ready projects**
+</div>
 
----
+<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=010Ankushsharma&color=FF0080&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/010Ankushsharma?style=for-the-badge&color=7928CA&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/010Ankushsharma)
+[![GitHub stars](https://img.shields.io/github/stars/010Ankushsharma?style=for-the-badge&color=FF0080&labelColor=0d0d0d&label=TOTAL+STARS)](https://github.com/010Ankushsharma)
 
-## 📚 Currently Learning
+</div>
 
-- AI / ML
-- DevSecOps
-- App Development
+<br/>
+
+<!-- ANIMATED BANNER GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 ---
 
-## 🎯 Goals
+<!-- ABOUT ME SECTION -->
+<div align="center">
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+  &nbsp;ABOUT ME&nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+</h2>
+</div>
 
-- Build 5+ production-ready AI projects
-- Deploy ML models to cloud
-- Contribute to open-source
-- Secure ML/AI Internship
+<table align="center" border="0">
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+# ankush.config.yml
+name: "Ankush Sharma"
+role: "AI/ML Engineer & Full Stack Dev"
+degree: "B.Tech — Artificial Intelligence & ML"
+
+skills:
+  mobile:   ["Flutter", "Dart", "Kotlin"]
+  backend:  ["Java", "Spring Boot", "Node.js", "Flask"]
+  frontend: ["React", "HTML5", "Tailwind", "CSS3"]
+  data:     ["Python", "R", "TensorFlow", "Tableau"]
+  cloud:    ["AWS", "Docker", "Kubernetes", "Jenkins"]
+  database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
+
+currently_learning:
+  - "Advanced ML & Deep Learning"
+  - "DevSecOps pipelines"
+  - "Cross-platform app dev"
+
+2025_goals:
+  - "Build 5+ production AI projects ⚡"
+  - "Deploy ML models to cloud ☁️"
+  - "Land ML/AI Internship 🎯"
+  - "Contribute to open-source 🌍"
+
+fun_fact: "I debug faster with lo-fi music 🎧"
+```
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding GIF"/>
+
+<br/>
+
+> *"Code is like poetry — every line should have purpose."*
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Languages & Tools
+<!-- TECH STACK SECTION -->
+<div align="center">
+<h2>⚡ TECH ARSENAL ⚡</h2>
+</div>
 
-### 💻 Programming Languages
+### 🧠 Languages
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/R/R-original.svg" alt="R" width="48" height="48" style="margin: 4px;" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-</p>
+</div>
 
----
+### 📱 Mobile Development
+<div align="center">
 
-### 📱 App Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
-</p>
-
----
+</div>
 
 ### 🌐 Frontend
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+</div>
 
 ### ⚙️ Backend
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" />
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" />
-</p>
+</div>
 
----
+### 🗄️ Databases
+<div align="center">
 
-### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" />
-</p>
-
----
+</div>
 
 ### ☁️ DevOps & Cloud
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+</div>
 
-### 🧰 Tools
+### 🧰 Tools & More
+<div align="center">
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" />
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
-</p>
-
-📊 Tableau
+</div>
 
 ---
 
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <a href="https://github.com/010Ankushsharma">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=010Ankushsharma&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="010Ankushsharma's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=010Ankushsharma&theme=dark&hide_border=true&cache_seconds=86400" alt="010Ankushsharma's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=010Ankushsharma&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ankush Sharma's GitHub Trophies" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/010Ankushsharma">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=010Ankushsharma&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 📊 GitHub Contribution Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=010ankushsharma&theme=tokyo-night)
-
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ankush-sharma-b63a5624a/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ankush Sharma's LinkedIn"/>
-  </a>
-  <a href="https://x.com/01ankush_sharma" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Ankush Sharma's Twitter"/>
-  </a>
-  <a href="mailto:ankushsharma90285@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Ankush Sharma's Email"/>
-  </a>
-  <a href="https://010ankushsharma.github.io/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/>
-  </a>
-  <a href="https://wa.me/917814790285" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
-
-📧 ankushsharma90285@gmail.com
-📱 7814790285
-
-
----
-
-⭐ Thanks for visiting my profile!
+<!-- GITHUB STATS SECTION -->
+<div align="center">
+<h2>📊 GITHUB STATS</h2>
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=010Ankushsharma&show_icons=true&theme=midnight-purple&border_radius=12&hide_border=true&bg_color=0d0d0d&title_color=FF0080&icon_color=7928CA&text_color=c9d1d9&ring_color=FF0080" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=010Ankushsharma&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=FF0080&fire=FF0080&currStreakLabel=7928CA&sideLabels=7928CA&dates=c9d1d9" />
+</div>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=010Ankushsharma&langs_count=8&layout=compact&theme=midnight-purple&border_radius=12&hide_border=true&bg_color=0d0d0d&title_color=FF0080&text_color=c9d1d9" />
+</div>
+
+<!-- TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=010Ankushsharma&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+<div align="center">
+<h2>🌊 CONTRIBUTION WAVE</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=010ankushsharma&theme=react-dark&bg_color=0d0d0d&color=FF0080&line=7928CA&point=FF0080&area=true&hide_border=true&area_color=7928CA" width="100%"/>
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+<h2>🐍 EATING MY CONTRIBUTIONS</h2>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/010Ankushsharma/010Ankushsharma/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/010Ankushsharma/010Ankushsharma/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/010Ankushsharma/010Ankushsharma/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+> 💡 **To enable the snake:** Go to your repo → Actions → Enable workflows → Add [this workflow](https://github.com/Platane/snk/blob/master/README.md)
+
+---
+
+<!-- CURRENT FOCUS / WHAT I'M BUILDING -->
+<div align="center">
+<h2>🔭 CURRENTLY BUILDING</h2>
+</div>
+
+<div align="center">
+
+| 🚀 Project | 🛠️ Stack | 📌 Status |
+|:---|:---|:---:|
+| AI-Integrated Web Platform | React + Flask + LLM APIs | 🔥 In Progress |
+| ML Model Cloud Deployment | Python + AWS + Docker | ⚡ Planning |
+| Flutter AI Companion App | Flutter + Gemini API | 🛠️ Building |
+| DevSecOps Pipeline | Jenkins + Kubernetes + AWS | 📚 Learning |
+
+</div>
+
+---
+
+<!-- CONNECT SECTION -->
+<div align="center">
+<h2>🌐 LET'S CONNECT</h2>
+
+<a href="https://www.linkedin.com/in/ankush-sharma-b63a5624a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/01ankush_sharma">
+  <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="mailto:ankushsharma90285@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://010ankushsharma.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+<a href="https://wa.me/917814790285">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+📧 **ankushsharma90285@gmail.com** &nbsp;|&nbsp; 📱 **+91-7814790285**
+
+</div>
+
+---
+
+<!-- QUOTE SECTION -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=120&section=footer&animation=fadeIn"/>
+
+**⭐ If you like my work, drop a star — it means a lot!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 </div>
