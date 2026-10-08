@@ -184,7 +184,7 @@ fun_fact: "I debug faster with lo-fi music 🎧"
 <!-- TROPHIES -->
 <!-- TROPHIES -->
 <div align="center">
-  <img src="https://github-profile-trophy-YOURNAME.vercel.app/?username=010Ankushsharma&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy-010Ankushsharma.vercel.app/?username=010Ankushsharma&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 ---
@@ -195,7 +195,7 @@ fun_fact: "I debug faster with lo-fi music 🎧"
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph-YOURNAME.vercel.app/graph?username=010Ankushsharma&theme=react-dark&bg_color=0d0d0d&color=FF0080&line=7928CA&point=FF0080&area=true&hide_border=true&area_color=7928CA" width="100%"/>
+  <img src="https://github-readme-activity-graph-010Ankushsharma.vercel.app/graph?username=010Ankushsharma&theme=react-dark&bg_color=0d0d0d&color=FF0080&line=7928CA&point=FF0080&area=true&hide_border=true&area_color=7928CA" width="100%"/>
 </div>
 
 ---
