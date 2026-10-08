@@ -194,7 +194,7 @@ fun_fact: "I debug faster with lo-fi music 🎧"
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=010ankushsharma&theme=react-dark&bg_color=0d0d0d&color=FF0080&line=7928CA&point=FF0080&area=true&hide_border=true&area_color=7928CA" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=010Ankushsharma&theme=react-dark&bg_color=0d0d0d&color=FF0080&line=7928CA&point=FF0080&area=true&hide_border=true&area_color=7928CA&v=2" width="100%"/>
 </div>
 
 ---
